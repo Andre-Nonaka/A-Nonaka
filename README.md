@@ -13,7 +13,7 @@
 <li>Web Development</li>
 </ul>
 ⚡ Check out some of the projects I've worked on! ⚡
-Fun Fact: I've been playing competitive soccer for 12 years 🙂
+<p>Fun Fact: I've been playing competitive soccer for 12 years 🙂</p>
 
 # Contact Info
 
