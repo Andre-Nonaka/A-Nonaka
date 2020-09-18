@@ -15,4 +15,5 @@ Some areas of computer science and business that interest me include:
 
 # Contact Info
 
-<a href="https://www.linkedin.com/in/andrenonaka/" rel="nofollow">LinkedIn</a>  |  <a href="mailto:andrenonakacordova@cmail.carleton.ca">Email</a>
+<p><code><a href="https://www.linkedin.com/in/andrenonaka/" rel="nofollow">LinkedIn</a></code> | <code><a href="mailto:andrenonakacordova@cmail.carleton.ca">Email</a></code></p>
+
