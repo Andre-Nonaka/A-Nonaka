@@ -1,10 +1,9 @@
 # Hey there!
-I'm <strong>Andre Nonaka</strong>, and I am a student at Carleton University studying computer science with a minor in business.
-I'm currently looking for internship opportunities from May 2021 - September 2021. Please feel free to reach out to me.
+<p>I'm <strong>Andre Nonaka</strong>, and I am a student at Carleton University studying computer science with a minor in business.</p>
+<p>I'm currently looking for internship opportunities from May 2021 - September 2021. Please feel free to reach out to me.</p>
 # Work Experience and Interests!
-I have previous work experience as an electronics intern in the Focused Ultrasound Lab at Sunnybrook Health Sciences Centre.
-
-Some areas of computer science and business that interest me include:
+<p>I have previous work experience as an electronics intern in the Focused Ultrasound Lab at Sunnybrook Health Sciences Centre.</p>
+<p>Some areas of computer science and business that interest me include:</p>
 <ul>
 <li>Fintech</li>
 <li>Data science</li>
