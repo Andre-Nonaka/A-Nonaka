@@ -5,12 +5,12 @@ I'm currently looking for internship opportunities from May 2021 - September 202
 I have previous work experience as an electronics intern in the Focused Ultrasound Lab at Sunnybrook Health Sciences Centre.
 
 Some areas of computer science and business that interest me include:
-
+<ul>
 <li>Fintech</li>
 </li>Data science</li>
 </li>Product Management</li>
 </li>Web Development</li>
-
+</ul>
 ⚡ Check out some of the projects I've worked on! ⚡
 
 # Contact Info
