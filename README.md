@@ -6,10 +6,10 @@ I have previous work experience as an electronics intern in the Focused Ultrasou
 
 Some areas of computer science and business that interest me include:
 <ul>
-<li>Fintech
-Data science</li>
-</li>Product Management</li>
-</li>Web Development</li>
+<li>Fintech</li>
+<li>Data science</li>
+<li>Product Management</li>
+<li>Web Development</li>
 </ul>
 ⚡ Check out some of the projects I've worked on! ⚡
 
