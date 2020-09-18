@@ -6,10 +6,10 @@ I have previous work experience as an electronics intern in the Focused Ultrasou
 
 Some areas of computer science and business that interest me include:
 
-⚫ Fintech
-⚫ Data science
-⚫ Product Management 
-⚫ Web Development
+<li>⚫ Fintech</li>
+</li>⚫ Data science</li>
+</li>⚫ Product Management </li>
+</li>⚫ Web Development</li>
 
 ⚡ Check out some of the projects I've worked on! ⚡
 
